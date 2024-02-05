@@ -7,7 +7,7 @@ Here is the function
 ```
 function gitcommit -a param1 param2
     set --local path $PWD
-    cd /Users/danielhebdon/Dev/personal/github-commit-dummy
+    cd /{{path to repo}}/github-commit-dummy
     echo '.' >> commit.txt
     git add .
     git commit -m "commit made"
