@@ -1,6 +1,7 @@
 # Fish Auto-commit for Bitbucket
 
 This is a FISH function that is commited to in parallel to wherever I actually want to commit to.
+This helps me keep my sweet, sweet Github profile commit history while working with repos in bitbucket.
 
 Here is the function
 
